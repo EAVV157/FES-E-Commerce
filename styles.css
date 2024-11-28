@@ -350,6 +350,10 @@ button:active {
   background-color: rgba(115, 66, 214, 0.15);
 }
 
+.explore__btn {
+  margin-bottom: 0;
+}
+
 /* FOOTER */
 
 footer {
@@ -389,6 +393,10 @@ footer {
     font-size: 24px;
   }
 
+  .container {
+    padding: 40px 0;
+  }
+
   .btn {
     font-size: 20px;
   }
@@ -412,7 +420,12 @@ footer {
   }
 
   h2 {
+    margin-bottom: 8px;
     font-size: 16px;
+  }
+
+  .container {
+    padding: 32px 0;
   }
 
   .btn {
